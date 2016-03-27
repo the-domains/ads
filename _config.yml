@@ -1,0 +1,28 @@
+name: ads
+favicon: null
+layout_spectrum: 0.08787918835878372
+typography_spectrum: 0.47939655161462724
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3425061262678355
+  lightness: 0.3848824647720903
+  saturation: 0.34426446980796754
+  rhythmicContrast: 0.9972079319413751
+purpose: []

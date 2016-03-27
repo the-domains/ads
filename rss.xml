@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ads]]></title>
+        <description><![CDATA[ads]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Mar 2016 04:03:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Old Spice | Whale | #smellegendary]]></title>
+            <description><![CDATA[<article><h1>Old Spice | Whale | #smellegendary</h1><p>If you're going to break the world cool limit, you need two things: Old Spice Dirt Destroyer and the kind of disposable income that allows you to befriend a whale and treat him to expensive, nonrefundable luxury items. No regrets! Maybe some regrets. Wow, lots of regrets. Where does regular end...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27b02bf3f14f723988f3634fe8a920b4cf97fcac.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=5hteeecX1oQ</link>
+            <guid isPermaLink="false">382184ea-005f-4514-9898-1ed93123d57c</guid>
+            <pubDate>Sun, 27 Mar 2016 04:03:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

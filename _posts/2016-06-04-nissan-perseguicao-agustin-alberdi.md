@@ -42,10 +42,10 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/168946956'
 title: Nissan / Perseguição / Agustin Alberdi
-datePublished: '2016-06-04T14:52:33.672Z'
-dateModified: '2016-06-04T14:46:19.309Z'
-starred: false
+datePublished: '2016-06-04T14:52:57.129Z'
+dateModified: '2016-06-04T14:52:56.454Z'
 sourcePath: _posts/2016-06-04-nissan-perseguicao-agustin-alberdi.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false

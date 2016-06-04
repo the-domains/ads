@@ -42,10 +42,10 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/168644444'
 title: Twix / Nixon Freire
-datePublished: '2016-06-04T14:52:33.666Z'
-dateModified: '2016-06-04T14:46:39.025Z'
-starred: false
+datePublished: '2016-06-04T14:52:53.319Z'
+dateModified: '2016-06-04T14:52:52.340Z'
 sourcePath: _posts/2016-06-04-twix-nixon-freire.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false

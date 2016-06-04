@@ -40,10 +40,10 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/169282573'
 title: GUARANA ANTARTICA - QUILMES
-datePublished: '2016-06-04T14:14:10.933Z'
-dateModified: '2016-06-04T14:13:24.885Z'
-starred: false
+datePublished: '2016-06-04T14:14:41.387Z'
+dateModified: '2016-06-04T14:14:40.824Z'
 sourcePath: _posts/2016-06-04-guarana-antartica-quilmes.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
